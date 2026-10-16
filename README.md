@@ -29,6 +29,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [Scrolltide](https://www.scrolltide.co/) | A curated library of scroll-driven website templates and AI prompts for animated frontend builds. |
 | [Aceternity UI — Minimal Portfolio Template](https://ui.aceternity.com/templates/minimal-portfolio-template) | A responsive portfolio template built with Next.js, React, Tailwind CSS, TypeScript, and Motion. |
 | [MUI Store](https://mui.com/store/) | A curated store of premium React templates and tools, including admin dashboards and application starters. |
 | [v0 E-commerce Dashboard](https://v0.app/templates/pd25Au2LhWp) | A reusable e-commerce dashboard template from the v0 template library. |
@@ -58,6 +59,13 @@ A curated collection of useful design and frontend resources, organized by categ
 | [daisyUI](https://daisyui.com/) | A Tailwind CSS component library with semantic, themeable UI components. |
 | [Origin UI / coss ui](https://coss.com/ui) | UI components built on Base UI; the original originui.com link now redirects here. |
 | [ReUI](https://reui.io/) | UI components and blocks for building applications with shadcn/ui. |
+
+## Design Inspiration
+
+| Resource | Description |
+| --- | --- |
+| [Navbar Gallery](https://www.navbar.gallery/) | Navigation design examples organised by pattern, including dropdowns, mega menus, sidebars and full-screen menus. |
+| [CTA.gallery](https://www.cta.gallery/) | A curated gallery of call-to-action design examples, including buttons, forms, newsletters and pricing sections. |
 
 ## Design Tools
 
@@ -165,6 +173,12 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Apprise](https://github.com/caronc/apprise) | A notification library that connects applications to many messaging services. |
 | [Responsively App](https://github.com/responsively-org/responsively-app) | A responsive web-development browser for viewing and testing multiple device layouts. |
 | [Plausible Analytics](https://github.com/plausible/analytics) | An open-source, privacy-friendly web analytics platform. |
+
+## Open-source Applications
+
+| Resource | Description |
+| --- | --- |
+| [openGym](https://github.com/DuarteSantos8/openGym) | A self-hosted gym and body-weight tracker with workout planning, guided workouts, progress statistics and passkey login. |
 
 ## Project Management
 
