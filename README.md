@@ -6,6 +6,8 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [Brand-style motion graphics with Claude — Charlie Hills](https://lnkd.in/dUEXu2Zm) | Six-step workflow for translating a brand's visual style into motion graphics. Screenshot source link; destination not independently verified. |
+| [Code-rendered explainer animations with Claude — Addy Osmani](https://lnkd.in/p/gg6h4YWD) | Reference on creating explainer animations with code. Screenshot source link; destination not independently verified. |
 | [Animated Icons — Minimalistic](https://animatedicons.co/icons/minimalistic) | A collection of minimal animated icons for interfaces and digital products. |
 | [Flaticon — Most Downloaded Animated Icons](https://www.flaticon.com/animated-icons-most-downloaded/5) | A browsable page of popular animated icon assets from Flaticon. |
 | [Morphicons](https://www.morphicons.com/) | Animated SVG icons that morph smoothly between interface states. |
@@ -38,6 +40,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [Graphical — Josh Puckett and Adam Michela](https://www.graphicalui.com/) | Visual theme editor with tokens, React components, GUI.md context and coding-agent skills for building, adapting and reviewing interfaces. |
 | [shadcn/ui](https://ui.shadcn.com/) | Composable UI components with source code to customise and extend into a design system. |
 | [DesignMD — DESIGN.md Library](https://designmd.app/library) | A library of design systems documented in Markdown for use with AI agents. |
 | [Hagicode Design](https://design.hagicode.com/) | A gallery of DESIGN.md design references with live previews and supporting documentation. |
@@ -71,6 +74,8 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [Agentic Design Ops — Ritesh Singh](https://lnkd.in/p/dsqPBFwy) | Article on designing with parameters rather than pixels. Screenshot source link; destination and contents not independently verified. |
+| [Design-decision rationale Claude pack — Oksana Obertysheva](https://lnkd.in/p/d_kpWCj8) | Claude pack for recording the reasoning behind design decisions. Screenshot source link; destination not independently verified. |
 | [Hallmark — Install](https://www.usehallmark.com/#install) | An agent skill for building, studying, auditing, and redesigning interfaces with an anti-generic design approach. |
 | [nutlope/hallmark](https://github.com/nutlope/hallmark) | The MIT-licensed source repository for the Hallmark design skill for Claude Code, Cursor, and Codex. |
 | [Design Prompts](https://designprompts.dev/) | A collection of visual-style prompts for AI-assisted design work. |
@@ -130,6 +135,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [Community design skills versus Claude defaults — Stanislau Malchanau](https://lnkd.in/dEXEEvrs) | Benchmarking reference comparing community design skills with Claude's default output. Screenshot source link; destination and results not independently verified. |
 | [MatrAIx](https://github.com/matraix-ai/matraix-persona-8b) | A simulated-persona model and resource for AI evaluation. |
 
 ## AI Coding Tools
@@ -203,6 +209,8 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [Learning AI: concepts before tools — Paweł Huryn](https://lnkd.in/dPVvxcxQ) | Learning-order reference prioritising AI concepts before tools. Screenshot source link; destination not independently verified. |
+| [Claude guide for product builders — Maria Saksina](https://lnkd.in/p/dSvfX4ft) | Guide described as covering the journey from idea to working prototype. Screenshot source link; destination and contents not independently verified. |
 | [App Ideas Collection](https://github.com/florinpop17/app-ideas) | Project briefs and user stories for practising app development, organised by difficulty. |
 | [AI Engineering from Scratch — GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) | The MIT-licensed source repository for a free curriculum with 500+ practical lessons covering AI foundations, LLM engineering, RAG, agents, and production systems. |
 | [AI Engineering from Scratch — Course](https://aiengineeringfromscratch.com/) | The curriculum's course website for reading completed lessons online. |
