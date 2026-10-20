@@ -131,6 +131,15 @@ A curated collection of useful design and frontend resources, organized by categ
 | [QuotaMeter](https://quotameter.app/) | A tool for monitoring AI coding-tool usage and quotas. |
 | [OmniRoute](https://github.com/NFTHiKe/OmniRoute) | An open-source gateway for routing requests across multiple AI providers. |
 
+## Agent Harness
+
+| Resource | Description |
+| --- | --- |
+| [Harness² — Google Research](https://github.com/google-research/harness2) | Recursive agent harnessing framework that refines prompts, tools, memory and workflows with fixed model weights; supports Codex and OpenCode executors. |
+| [Harness² — Research paper](https://arxiv.org/abs/2610.14224) | Research on improving the current task's harness and retaining lessons for future tasks. |
+
+[Resource notes and potential design applications](agent-harness.md).
+
 ## AI Evaluation
 
 | Resource | Description |
