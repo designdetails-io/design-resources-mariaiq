@@ -203,6 +203,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A command-line audio/video downloader supporting thousands of sites, with format selection, subtitles, metadata and post-processing options. |
 | [ASCII Magic](https://www.ascii-magic.com/) | A generator that transforms images and videos into ASCII art. |
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | An open-source tool for automating short-form video generation. |
 
