@@ -18,6 +18,30 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Magic UI](https://magicui.design/) | Animated UI components and effects for web interfaces. |
 | [Motion Primitives](https://motion-primitives.com/) | Customisable motion components built with Motion and Tailwind CSS. |
 
+## 3D Graphics and WebGL
+
+| Resource | Description |
+| --- | --- |
+| [React Three Fiber](https://github.com/pmndrs/react-three-fiber) | A React renderer for Three.js for building interactive 3D scenes and animations with reusable components. |
+
+## Glass and Refraction Effects
+
+| Resource | Description |
+| --- | --- |
+| [Liquid Glass React](https://github.com/rdev/liquid-glass-react) | React components for Apple-style Liquid Glass effects, including refraction and displacement. |
+
+## Animated Gradients
+
+| Resource | Description |
+| --- | --- |
+| [ShaderGradient](https://github.com/ruucm/shadergradient) | Customisable moving 3D gradients for React, with integrations for Figma and Framer. |
+
+## Logo and Material Effects
+
+| Resource | Description |
+| --- | --- |
+| [Liquid Logo — Paper Design](https://github.com/paper-design/liquid-logo) | Turn logos into animated liquid metal using Paper Shaders. |
+
 ## Icons
 
 | Resource | Description |
