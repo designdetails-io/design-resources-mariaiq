@@ -6,6 +6,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [claude-motion](https://github.com/whaleyxbt/claude-motion) | Motion design toolkit for coding agents with animation guidance, frame review, synthesised sound and frame-by-frame web simulation capture to 60 fps video; supports Claude Code, Cursor and Codex. |
 | [Brand-style motion graphics with Claude — Charlie Hills](https://lnkd.in/dUEXu2Zm) | Six-step workflow for translating a brand's visual style into motion graphics. Screenshot source link; destination not independently verified. |
 | [Code-rendered explainer animations with Claude — Addy Osmani](https://lnkd.in/p/gg6h4YWD) | Reference on creating explainer animations with code. Screenshot source link; destination not independently verified. |
 | [Animated Icons — Minimalistic](https://animatedicons.co/icons/minimalistic) | A collection of minimal animated icons for interfaces and digital products. |
