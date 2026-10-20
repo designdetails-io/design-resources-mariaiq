@@ -192,6 +192,12 @@ A curated collection of useful design and frontend resources, organized by categ
 | [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | An AI infrastructure security assessment and red-teaming toolkit. |
 | [Depx](https://github.com/pdiscoveryio/depx) | A software supply-chain security tool for dependency analysis. |
 
+## Web Scraping and Data Extraction
+
+| Resource | Description |
+| --- | --- |
+| [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Open-source Python library that uses LLMs and graph-based pipelines to extract information from websites and local documents using natural-language prompts. [Official website](https://scrapegraphai.com/). |
+
 ## Website Tools
 
 | Resource | Description |
