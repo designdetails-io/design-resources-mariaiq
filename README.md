@@ -216,6 +216,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [20 video effects for Claude — Charlie Hills](https://charliehills.substack.com/p/20-video-effects-for-claude) | Collection advertised as 20 free video-effects skills for Claude Code and Codex, including grid-dive, title-orbit, portal, clone-room and liquid-glass. The source post lists FFmpeg, Node.js and Python as requirements. Destination resolved from the screenshot's short link; downloadable skills and compatibility not independently tested. |
 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Open-source, node-based AI creation engine for reusable image, video, audio and 3D workflows, with local execution, custom nodes and API integration. [Website](https://www.comfy.org/) · [Documentation](https://docs.comfy.org/). |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A command-line audio/video downloader supporting thousands of sites, with format selection, subtitles, metadata and post-processing options. |
 | [ASCII Magic](https://www.ascii-magic.com/) | A generator that transforms images and videos into ASCII art. |
