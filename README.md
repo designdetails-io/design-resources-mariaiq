@@ -161,6 +161,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [ZDTaichu5.0-9B](https://github.com/Taichu-AI/ZDTaichu5.0-9B) | An open-weight multimodal model for understanding images, documents, charts and video, with spatial reasoning and agent tool-use capabilities. Model weights are subject to the NVIDIA Open Model License and upstream terms. |
 | [Edge0](https://github.com/Edge0-AI/Edge0) | Apache-2.0 streaming Mixture-of-Experts inference framework using SSD expert offload, Recover-LoRA and predictive routing to run large sparse models locally. Includes 35B and 8B preview models, a Python/MLX backend for Apple Silicon, and separate macOS, iOS, Android and Windows runtimes. [Technical report](https://arxiv.org/abs/2609.18063). |
 
 ## Agent Harness
